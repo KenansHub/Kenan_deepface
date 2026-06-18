@@ -1,0 +1,34 @@
+# Local environments
+.venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tests / experiments
+test/
+
+# Local generated DeepFace assets
+.deepface/
+database/
+old/
+
+# Notebooks and local media samples
+*.ipynb
+*.jpg
+*.jpeg
+*.png
+*.wav
+*.mp3
+
+# Runtime logs / temp files
+*.log
+*.tmp
